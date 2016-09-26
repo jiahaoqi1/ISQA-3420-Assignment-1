@@ -1,5 +1,5 @@
 # Title: Determine Licenses and vulnerablility information
-Primary Actor: Developer </endln>
+Primary Actor: Developer  
 Goal in Context:
 Stakeholders:
 Preconditions
