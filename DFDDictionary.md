@@ -1,1 +1,4 @@
 # DFD Dictionary
+
+Developer
+Manager
