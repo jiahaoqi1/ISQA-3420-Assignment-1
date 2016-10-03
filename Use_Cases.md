@@ -1,4 +1,4 @@
-# Title: Determine Licenses and vulnerablility information
+# Determine Licenses and Vulnerablility information
 Primary Actor: Corporate Manager
 Goal in Context: The corporate manager is able to tell licenses and vulnerability of software.  
 Stakeholders: Corporate Manager: get relavent and easy to understand information, Developer: To see if the software has the proper licenses and are not vulnerable.  
