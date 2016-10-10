@@ -1,2 +1,1 @@
-
-overview of the system
+ This system is designed to allow developers check the open source software for vulnerabilities and the licenses that it comes with. They are also able to compare the project to the policy documentation of the company. It is also designed to allow managers to request the same information that the developers have access to as well as change the policy documentation. The expected changes from the implementation of this system, are clarrification of the boundries that the developer needs to work with and allows the manager to 
