@@ -8,5 +8,6 @@ Software Package - collection of files, in the case of the DFD, this holds the r
 Software Package Results- The findings that the scans through the NIST DB and the License application has uncovered  
 ##Databases
 NIST Vulnerability DB - this is the database that tells the user if the specified open source code has any known vulnerabilities  
-
+License and Vulnerability DB - this os the database that holds the results of the vulnerability and license scanning  
+Policy DB - this database holds the documentation for company policies  
 ##Processes
