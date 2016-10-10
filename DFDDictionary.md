@@ -17,7 +17,7 @@ NIST Vulnerability DB - this is the database that tells the user if the specifie
 SW License and Vulnerability DB - this os the database that holds the results of the vulnerability and license scanning  
 Policy DB - this database holds the documentation for company policies  
 ##Processes  
-Manage Software Packager for License and Vulnerability Scanning - this controls how the software package, that the developer sends out, is used. It makes sure that the right information is going to the right place, that the licenses and vulnerabilities are being found and placed into the database.  
+Manage Software Package for License and Vulnerability Scanning - this controls how the software package, that the developer sends out, is used. It makes sure that the right information is going to the right place, that the licenses and vulnerabilities are being found and placed into the database.  
 Manage Software Project Information and Requests - This controls the requests for licenses and vulnerabilities of the project by the manager and developer from the SW License and Vulnerability DB. It sends back the results of the requests.  
 Manage Policy Documentation Checks - This process controls the request and data to compare the project information with the current policy documentation  
 Update Policy Documentation - This process allows the manager to push new policy documentation to the Policy DB  
