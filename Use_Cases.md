@@ -16,4 +16,11 @@ Main Sucess Senario: Manager updates the DB sucessfully.
 Failed End Condition: Manger cannot update the Policy Documentation.  
 Trigger: Manager pushes the policy documentation data.  
 
-# Use_Case_3
+# Scan For License and Vulnerability
+Primary Actor: Developer  
+Goal in Context: The developer is able to correctly scan the specified pieces of code for their vulnerability and licenses, and place that information into the database.  
+Stakeholders: Developer: get the correct information for that piece of code, Manager: gets the correct information when they pull the data from the database. 
+Preconditions: Relevant data is composed and sent to the right place. Proper info has been provided.  
+Main Success Senario: The developer is sucessfully able to scan the code and retrieve the information from the database.  
+Failed End Conditions: The developer is unable to scan the code.  
+Trigger: Developer pushes a software package check.  
