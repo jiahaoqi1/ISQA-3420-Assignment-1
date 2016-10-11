@@ -21,4 +21,4 @@ Manage Software Package for License and Vulnerability Scanning - this controls h
 Manage Software Project Information and Requests - This controls the requests for licenses and vulnerabilities of the project by the manager and developer from the SW License and Vulnerability DB. It sends back the results of the requests.  
 Manage Policy Documentation Checks - This process controls the request and data to compare the project information with the current policy documentation  
 Update Policy Documentation - This process allows the manager to push new policy documentation to the Policy DB  
-Scan for License - this process scans applications, like Fossology, for the license of the specified open source code.  
+Scan for License - this process scans applications, like Fossology, for the license of the specified open source code  
